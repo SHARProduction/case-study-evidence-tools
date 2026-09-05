@@ -1,0 +1,11 @@
+{
+  "claims": [
+    {
+      "id": "C1",
+      "sourceUrl": "https://sharprod.com/",
+      "permission": "approved",
+      "eventDate": "2026-01-01",
+      "retrievedAt": "2026-09-06"
+    }
+  ]
+}

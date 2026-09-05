@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "case-study-evidence-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w10-199",
+      "slug": "public-case-study-evidence-checker",
+      "title": "Public Case Study Evidence Checker",
+      "title_ru": "Проверка доказательств публичного кейса",
+      "family": "case_evidence",
+      "purpose": "Checks public case-study claims for sources, permissions and dates.",
+      "purpose_ru": "Проверяет заявления публичного кейса на источники, разрешения и даты.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w10-200",
+      "slug": "portfolio-claim-citation-validator",
+      "title": "Portfolio Claim Citation Validator",
+      "title_ru": "Валидатор цитирования портфолио",
+      "family": "case_evidence",
+      "purpose": "Checks portfolio claims for public URLs and retrieval evidence.",
+      "purpose_ru": "Проверяет заявления портфолио на публичные URL и доказательство получения.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}
